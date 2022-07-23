@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    times-new-roman;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -26,7 +26,7 @@ code {
 }
 
 .todo{
-  background: #fff;
+  background: #000;
   box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
   padding: 3px 10px;
   font-size: 24px;
